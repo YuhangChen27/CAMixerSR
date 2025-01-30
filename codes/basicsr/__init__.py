@@ -1,2 +1,2 @@
-from .archs import *
-from .models import *
+from basicsr.archs import *
+from basicsr.models import *
